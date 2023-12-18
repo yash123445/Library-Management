@@ -17,11 +17,11 @@ The IoT-based Smart Shopping Cart is a project designed to enhance the tradition
 1. Install - Arduino IDE.
 
 ## Requirement
-1.RFID Reader and Tags
-2.Arduino 
-3.LCD Display
-4.Data USB Cable
-5.Jumper Wires
+1.RFID Reader and Tags.
+2.Arduino UNO.
+3.LCD Display.
+4.Data USB Cable.
+5.Jumper Wires.
 
 ## Usage
 1. Ensure that the RFID system is properly set up and configured.
